@@ -2229,11 +2229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wws\\source\\repos\\MiniJobPortal\\MiniJobPortal\\MiniJobPortal.csproj",
+      "projectUniqueName": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\MiniJobPortal.csproj",
       "projectName": "MiniJobPortal",
-      "projectPath": "C:\\Users\\wws\\source\\repos\\MiniJobPortal\\MiniJobPortal\\MiniJobPortal.csproj",
+      "projectPath": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\MiniJobPortal.csproj",
       "packagesPath": "C:\\Users\\wws\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wws\\source\\repos\\MiniJobPortal\\MiniJobPortal\\obj\\",
+      "outputPath": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

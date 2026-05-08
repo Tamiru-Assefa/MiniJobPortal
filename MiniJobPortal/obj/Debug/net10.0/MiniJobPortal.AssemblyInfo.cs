@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniJobPortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffd607777a58d1bc940ba0b7c75d5e66baa38b84")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniJobPortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniJobPortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.csproj.AssemblyReference.cache
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.AssemblyInfoInputs.cache
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.AssemblyInfo.cs
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.csproj.CoreCompileInputs.cache
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.RazorAssemblyInfo.cache
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.RazorAssemblyInfo.cs
+C:\Users\wws\Desktop\MiniJobPortal\MiniJobPortal\obj\Debug\net10.0\MiniJobPortal.sourcelink.json

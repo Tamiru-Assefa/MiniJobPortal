@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\models\\jobseekerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\models\\employerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\models\\employerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\models\\savedjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\enums\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|c:\\users\\wws\\desktop\\minijobportal\\minijobportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9BA778-024F-5F12-9882-8E1DD2015520}|MiniJobPortal\\MiniJobPortal.csproj|solutionrelative:minijobportal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Program.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Program.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Program.cs*",
+              "RelativeToolTip": "MiniJobPortal\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:01:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\Application.cs",
+              "RelativeToolTip": "MiniJobPortal\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:47:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\EmployerProfile.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Models\\EmployerProfile.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\EmployerProfile.cs",
+              "RelativeToolTip": "MiniJobPortal\\Models\\EmployerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:46:07.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobSeekerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\JobSeekerProfile.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Models\\JobSeekerProfile.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\JobSeekerProfile.cs",
+              "RelativeToolTip": "MiniJobPortal\\Models\\JobSeekerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:44:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MiniJobPortal\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\appsettings.Development.json",
+              "RelativeToolTip": "MiniJobPortal\\appsettings.Development.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T17:01:17.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "MiniJobPortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\appsettings.json",
+              "RelativeToolTip": "MiniJobPortal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T17:01:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "MiniJobPortal\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAA0AAAAAzszMzMwMwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:48:26.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SavedJob.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\SavedJob.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Models\\SavedJob.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\SavedJob.cs",
+              "RelativeToolTip": "MiniJobPortal\\Models\\SavedJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:47:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\Job.cs",
+              "RelativeToolTip": "MiniJobPortal\\Models\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:46:34.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Models\\User.cs",
+              "RelativeToolTip": "MiniJobPortal\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:43:37.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Enums\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Enums\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Enums\\ApplicationStatus.cs*",
+              "RelativeToolTip": "MiniJobPortal\\Enums\\ApplicationStatus.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:39:28.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Enums\\UserRole.cs*",
+              "RelativeToolTip": "MiniJobPortal\\Enums\\UserRole.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:33:46.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiniJobPortal\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\wws\\Desktop\\MiniJobPortal\\MiniJobPortal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiniJobPortal\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:14:18.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
