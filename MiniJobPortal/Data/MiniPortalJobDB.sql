@@ -1,0 +1,102 @@
+﻿CREATE DATABASE MiniJobPortalDB;
+
+
+USE MiniJobPortalDB;
+
+
+-- USERS TABLE
+CREATE TABLE Users (
+    UserID INT PRIMARY KEY IDENTITY(1,1),
+    FullName VARCHAR(100) NOT NULL,
+    Email VARCHAR(100) UNIQUE NOT NULL,
+    PasswordHash VARCHAR(255) NOT NULL,
+    Role VARCHAR(20) NOT NULL,
+    CreatedAt DATETIME DEFAULT GETDATE()
+);
+
+-- JOB SEEKER PROFILE TABLE
+CREATE TABLE JobSeekerProfiles (
+    SeekerID INT PRIMARY KEY IDENTITY(1,1),
+    UserID INT UNIQUE NOT NULL,
+    Bio VARCHAR(500),
+    Title VARCHAR(100),
+    Skills VARCHAR(500),
+    Education VARCHAR(255),
+    Experience VARCHAR(255),
+    ResumePath VARCHAR(255),
+    ProfilePicturePath VARCHAR(255),
+    CreatedAt DATETIME DEFAULT GETDATE(),
+
+    FOREIGN KEY (UserID)
+    REFERENCES Users(UserID)
+    ON DELETE CASCADE
+);
+
+-- EMPLOYER PROFILE TABLE
+CREATE TABLE EmployerProfiles (
+    EmployerID INT PRIMARY KEY IDENTITY(1,1),
+    UserID INT UNIQUE NOT NULL,
+    CompanyName VARCHAR(150) NOT NULL,
+    Description VARCHAR(500),
+    Location VARCHAR(100),
+    Website VARCHAR(150),
+    ContactNumber VARCHAR(50),
+    CreatedAt DATETIME DEFAULT GETDATE(),
+
+    FOREIGN KEY (UserID)
+    REFERENCES Users(UserID)
+    ON DELETE CASCADE
+);
+
+-- JOBS TABLE
+CREATE TABLE Jobs (
+    JobID INT PRIMARY KEY IDENTITY(1,1),
+    EmployerID INT NOT NULL,
+    Title VARCHAR(150) NOT NULL,
+    Description VARCHAR(MAX),
+    RequiredSkills VARCHAR(500),
+    Salary VARCHAR(50),
+    JobType VARCHAR(50),
+    Location VARCHAR(100),
+    Deadline DATETIME,
+    CreatedAt DATETIME DEFAULT GETDATE(),
+
+    FOREIGN KEY (EmployerID)
+    REFERENCES EmployerProfiles(EmployerID)
+    ON DELETE CASCADE
+);
+
+-- APPLICATIONS TABLE
+CREATE TABLE Applications (
+    ApplicationID INT PRIMARY KEY IDENTITY(1,1),
+    JobID INT NOT NULL,
+    SeekerID INT NOT NULL,
+    CoverLetter VARCHAR(1000),
+    Status VARCHAR(20) DEFAULT 'Pending',
+    AppliedDate DATETIME DEFAULT GETDATE(),
+    UpdatedAt DATETIME,
+
+    FOREIGN KEY (JobID)
+    REFERENCES Jobs(JobID)
+    ON DELETE CASCADE,
+
+    FOREIGN KEY (SeekerID)
+    REFERENCES JobSeekerProfiles(SeekerID)
+    ON DELETE CASCADE
+);
+
+-- SAVED JOBS TABLE
+CREATE TABLE SavedJobs (
+    SavedID INT PRIMARY KEY IDENTITY(1,1),
+    SeekerID INT NOT NULL,
+    JobID INT NOT NULL,
+    SavedDate DATETIME DEFAULT GETDATE(),
+
+    FOREIGN KEY (SeekerID)
+    REFERENCES JobSeekerProfiles(SeekerID)
+    ON DELETE CASCADE,
+
+    FOREIGN KEY (JobID)
+    REFERENCES Jobs(JobID)
+    ON DELETE CASCADE
+);
